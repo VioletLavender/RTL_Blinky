@@ -1,0 +1,10 @@
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\MM32F032xx_s\Source\system_MM32F032xx_s.c
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\MM32F032xx_s\Include\mm32_device.h
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\MM32F032xx_s\Include\mm32_reg.h
+.\objects\system_mm32f032xx_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_mm32f032xx_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\MM32F032xx_s\Include\types.h
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\CMSIS\KEIL_CORE\core_cm0.h
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\CMSIS\KEIL_CORE\core_cmInstr.h
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\CMSIS\KEIL_CORE\core_cmFunc.h
+.\objects\system_mm32f032xx_s.o: ..\..\..\..\..\..\3_Device\MM32F032xx_s\Include\mm32_reg_redefine_v1.h
